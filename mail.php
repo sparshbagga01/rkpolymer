@@ -9,8 +9,8 @@ if (!empty($_POST['email']) && $_POST['email'] !='')
         $email = $_POST['email'];
         $message = $_POST['message'];
 
-         $to = "rkpolymers.in@gmail.com";
-        $bcc = "enquiry.onlinepromotionhouse@gmail.com,sbagga.oph@gmail.com ";
+         $to = "anish.onlinepromotionhouse@gmail.com";
+        $bcc = "anish56808@gmail.com";
         $sub = "Inquiry from website (Online Promotion House)";
         $msg = "<html>
                   <body>
@@ -68,3 +68,4 @@ if (!empty($_POST['email']) && $_POST['email'] !='')
 
 
 ?>
+
